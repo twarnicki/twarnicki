@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tom Warnicki @twarnicki
+- 👀 I’m interested in solving problems with code.
+- 🌱 I’m currently learning VUE and Python.
+- 💞️ I’m looking to collaborate on moon mining :D
+- 📫 How to reach me @ warnicki.pl
